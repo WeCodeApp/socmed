@@ -1,0 +1,3 @@
+time="2025-05-05T09:29:16+08:00" level=info msg="Starting SQL migration..."
+time="2025-05-05T09:31:39+08:00" level=info msg="Starting SQL migration..."
+time="2025-05-05T09:31:40+08:00" level=info msg="Migrations completed successfully!"
